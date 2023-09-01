@@ -1,8 +1,7 @@
 ##        个人简历
 
-&nbsp;&nbsp;&nbsp;&nbsp; ​&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;                                           +68 18379883767 | breeze945@163.com
-
-&nbsp;&nbsp;&nbsp;&nbsp; ​&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;    ​ &nbsp;&nbsp;&nbsp;&nbsp;      ​ &nbsp;&nbsp;&nbsp;&nbsp;                                              2002-5 | 江西赣州 |共青团员
+<center> +68 18379883767 | breeze945@163.com</center>                   
+ <center> 2002-5 | 江西赣州 |共青团员</center>       
 
 ### 教育经历
 
