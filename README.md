@@ -62,7 +62,7 @@
 
 ## 个 人 技 能
 ---------------------
-- 熟悉git操作，github仓库个人应用主页：https://gitee.com/MessengerOfTheWind
+- 熟悉git操作，github仓库个人应用主页：[https://gitee.com/MessengerOfTheWind](https://github.com/MessengerOfTheWind/)
 
 - 熟悉python、C++、Java等编程语⾔，具备⾯向对象编程能⼒，能够运⽤⼯具实现基础算法以及基本开发
 
