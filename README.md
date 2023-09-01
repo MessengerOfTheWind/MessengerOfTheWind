@@ -31,7 +31,7 @@
 
 - 主要⼯作：导师横向项⽬，负责软件模块中的术中护理，编写后端接口(输⾎、输液等)，并欧使⽤vue实现前端代码和后端接口的对应；实现下拉框动态获取(给其它成员打样)
 
-桂林理⼯⼤学奖福⾦系统 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **项⽬负责⼈** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2023.03 - 2023.05
+桂林理⼯⼤学奖福⾦系统 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **项⽬负责⼈** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2023.03 - 2023.05
 
 - 项⽬概述：本项⽬实现了财务⼈员对奖福⾦信息的录⼊，部⻔⼈员能够对奖福⾦信息进⾏测算，实现部⻔⼈员权限的动态控制，能够依据需求修改⽤⼾权限
 
@@ -39,7 +39,7 @@
 
 - 项⽬成果：与桂⼯财务签署合作协议、已经上线运营
 
-**基于⾼校信息管理的个⼈博客系统**     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      2021.09 - 2023.05
+**基于⾼校信息管理的个⼈博客系统**     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      2021.09 - 2023.05
 
 - 项⽬概述：本项⽬实现了⾼校学⽣信息的管理和展⽰(照⽚、经历、说说等信息),学⽣⾃主上传信息，通过后台进⾏统⼀管理，包括有后台管理系统和Web展⽰端
 
