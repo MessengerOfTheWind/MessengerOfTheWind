@@ -17,7 +17,7 @@
 
 ## 项 ⽬ 经 历
 
-智慧⽔务系统  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;项⽬负责⼈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.10 - 2023.03
+智慧⽔务系统  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;项⽬负责⼈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.10 - 2023.03
 
 - 项⽬概述：本项⽬实现⼀款监控污⽔信息、检测⽔质的数据的⽔务软件系统，能够实现各类污⽔处理设备的远程操纵，包括有小程序、后台管理、 ⼤屏监控以及物联⽹关集成设备等
 
