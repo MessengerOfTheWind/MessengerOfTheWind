@@ -1,7 +1,7 @@
 ##        个人简历
 
-&emsp;&emsp;&emsp;&emsp;+68 18379883767 | breeze945@163.com             
-&emsp;&emsp;&emsp;&emsp;2002-5 | 江西赣州 |共青团员   
+<center> +68 18379883767 | breeze945@163.com    </center>          
+&emsp;&emsp;2002-5 | 江西赣州 |共青团员   
 
 ### 教育经历
 
