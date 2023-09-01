@@ -39,7 +39,7 @@
 
 - 项⽬成果：与桂⼯财务签署合作协议、已经上线运营
 
-**基于⾼校信息管理的个⼈博客系统**     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      2021.09 - 2023.05
+**基于⾼校信息管理的个⼈博客系统**     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      2021.09 - 2023.05
 
 - 项⽬概述：本项⽬实现了⾼校学⽣信息的管理和展⽰(照⽚、经历、说说等信息),学⽣⾃主上传信息，通过后台进⾏统⼀管理，包括有后台管理系统和Web展⽰端
 
