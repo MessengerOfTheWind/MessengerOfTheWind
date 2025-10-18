@@ -34,6 +34,8 @@
 **完成定位算法全链路**：采集训练样本，基于主成分分析（PCA）—数据增强—卷积神经网络（CNN）完成模型训练；将模型部署为后端推理接口；前端提交 RSSI 指纹图 的 POST 请求，后端返回人员坐标并写入 Redis，驱动大屏实时刷新展示。<br>
 **系统部署**：以 Nginx 统一入口，承担静态资源托管与反向代理，按路由将请求转发至后端服务；后端应用打包为可执行 JAR 并制作镜像，使用 Docker Compose 定义服务、网络与卷，支持一键部署/更新/回滚及环境变量配置。<br>
 - **项目成果**：《基于PAC的轻量化CNN室内定位模型》，一项软著，一项发明专利
+<br>
+<br>
 
 **桂林理⼯⼤学奖福⾦系统** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **项⽬负责⼈** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; **2023.03 - 2023.05**
 
