@@ -22,7 +22,7 @@
   
 ## 项 ⽬ 经 历
 ---------------------
-**Wifi室内定位系统** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2022.10 - 2023.03**
+**Wifi室内定位系统** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**项⽬负责⼈**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2024.10 - 2025.11**
 
 - **项⽬概述**：本项目通过采集wifi指纹并训练模型，通过模型精准定位出当前人员所处的室内定位，并对室内人员的定位信息进行管理，在大屏2D平面上进行展示
 
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-**桂林理⼯⼤学奖福⾦系统** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **项⽬负责⼈** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; **2023.03 - 2023.05**
+**桂林理⼯⼤学奖福⾦系统** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **项⽬负责⼈** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; **2024.03 - 2025.05**
 
 - **项⽬概述**：本项⽬实现了财务⼈员对奖福⾦信息的录⼊，部⻔⼈员能够对奖福⾦信息进⾏测算，实现部⻔⼈员权限的动态控制，能够依据需求修改⽤⼾权限<br>
 
